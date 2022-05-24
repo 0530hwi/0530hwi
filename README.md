@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&reversal=false&text=Welcome!😊&desc=Hwi's%20GitHub%20Profile&fontSize=50&fontAlign=50&fontAlignY=30&descSize=20&descAlign=70&descAlignY=50&rotate=0)
 <div align="center">
 <p>Hi There! I'm a Bachelor of Science in Applied Statistics.</p>
-<p>My dream is Data Analyst.</p>
+<p>My dream is a Data Analyst.</p>
 
 It's pleasure to meet you! 👋🏻 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0530hwi%2Fhit-counter&count_bg=%231E330F&title_bg=%23506796&icon=&icon_color=%23FAFAFA&title=hits&edge_flat=false)
 
