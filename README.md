@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&reversal=false&text=Welcome!😊&desc=Hwi's GitHub Profile&fontSize=50&fontAlign=50&fontAlignY=30&descSize=20&descAlign=70&descAlignY=50&rotate=0)   
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0530hwi%2Fhit-counter&count_bg=%231E330F&title_bg=%23506796&icon=&icon_color=%23FAFAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/badge/python-white?style=appveyor&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/github-sucess?style=appveyor&logo=github&logoColor=181717"> <img src="https://img.shields.io/badge/R-9cf?style=appveyor&logo=R&logoColor=276DC3"> <img src="https://img.shields.io/badge/MySQL-lightgrey?style=appveyor&logo=MySQL&logoColor=4479A1"> <img src="https://img.shields.io/badge/Instagram-black?style=appveyor&logo=Instagram&logoColor=E4405F"> <img src="https://img.shields.io/badge/Gmail-black?style=appveyor&logo=Gmail&logoColor=EA4335">
 
 <!--
 **0530hwi/0530hwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
