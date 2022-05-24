@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&reversal=false&text=Welcome!&desc=Hwi's GitHub Profile&fontSize=50&fontAlign=50&fontAlignY=30&descSize=20&descAlign=70&descAlignY=50&rotate=0)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0530hwi%2Fhit-counter&count_bg=%231E330F&title_bg=%23506796&icon=&icon_color=%23FAFAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
