@@ -11,8 +11,8 @@ It's pleasure to meet you! 👋🏻 ![Hits](https://hits.seeyoufarm.com/api/coun
  <img src="https://img.shields.io/badge/github-sucess?style=appveyor&logo=github&logoColor=181717">
   
 #
-  <h3>🍀 SNS 🍀<h3>
- <img src="https://img.shields.io/badge/Instagram-white?style=appveyor&logo=Instagram&logoColor=E4405F"&link=https://www.instagram.com/hwiping_/"> <img src="https://img.shields.io/badge/Gmail-white?style=appveyor&logo=Gmail&logoColor=EA4335"&link=https://0530hwi@gmail.com">
+<h3>🍀 SNS 🍀<h3>
+<a href="[link=https://www.instagram.com/hwiping_/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=appveyor&logo=Instagram&logoColor=E4405F"> <a href="[link=https://0530hwi.gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=appveyor&logo=Gmail&logoColor=EA4335"&link=https://0530hwi@gmail.com>
     
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0530hwi&show_icons=true&theme=moltack)
